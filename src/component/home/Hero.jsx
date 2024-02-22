@@ -16,7 +16,7 @@ const Hero = () => {
             avoid delays and common problems
           </p>
           <div className="flex-row mt-16 flex gap-10">
-            <button className="bg-button-color text-white rounded-lg py-2 px-14 flex-shrink font-bold ">
+            <button className="bg-custom-blue text-white rounded-lg  px-14 flex-shrink font-bold ">
               Find suppliers
             </button>
             <div className="flex items-center gap-4">
