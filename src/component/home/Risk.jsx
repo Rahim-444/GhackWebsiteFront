@@ -41,7 +41,7 @@ const Risk = () => {
       
         <div className="flex justify-around mt-20">
           <div className="w-1/4 flex flex-col justify-center items-baseline">
-            <h1 className="text-custom-orange text-3xl font-semibold mt-14">
+            <h1 className="text-custom-orange text-3xl font-semibold mt-20">
               Discover A World Of Suppliers
             </h1>
             <p>
