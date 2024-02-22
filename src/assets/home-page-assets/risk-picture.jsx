@@ -1,6 +1,7 @@
 import React from "react";
 
-const risk = () => {
+const RiskPicture = () => {
+  
   return (
     <svg
       width="268"
@@ -496,4 +497,4 @@ const risk = () => {
   );
 };
 
-export default risk;
+export default RiskPicture;
