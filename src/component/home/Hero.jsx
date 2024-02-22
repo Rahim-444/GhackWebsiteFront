@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="felx flex-col">
           <h1 className="text-4xl mb-5">
             Skip the stress,
-            <span className="text-[#E57B6C]"> Track your happiness</span>{" "}
+            <span className="text-custom-orange"> Track your happiness</span>{" "}
             everywhere
           </h1>
           <p className="w-5/6">
