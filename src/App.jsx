@@ -1,7 +1,16 @@
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Home from "./pages/Home";
+
 function App() {
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <Home />,
+    },
+  ]);
   return (
     <>
-      <h1 className="text-red-300">Hello Vite + React!</h1>
+      <RouterProvider router={router} />
     </>
   );
 }
