@@ -7,7 +7,9 @@
   line-height: 1.5;
   font-weight: 400;
 
-  padding-inline: 30px;
+  margin: 0;
+  padding: 0;
+
   color-scheme: light dark;
   color: rgba(0, 0, 0, 0.87);
   background-color: white;
@@ -18,3 +20,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+body,
+html {
+  margin-inline: 70px;
+}
